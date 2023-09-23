@@ -1,0 +1,26 @@
+{
+  "name": "sk-color-icons",
+  "version": "1.0.0",
+  "description": "Multi color icon set for the Shark Admin project",
+  "main": "index.js",
+  "scripts": {
+    "icons": "node build/icons.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elwin0204/sk-color-icons.git"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": "Elwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elwin0204/sk-color-icons/issues"
+  },
+  "homepage": "https://github.com/Elwin0204/sk-color-icons#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
